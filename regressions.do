@@ -5,5 +5,7 @@ reg price mpg, r
 Kris told me not to 
 summ length
 
-blah blah blah
+regress auto car
+
+outreg2 using reg1
 
